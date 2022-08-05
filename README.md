@@ -1,7 +1,7 @@
 # Rock-Paper-Scissors-using-TFOD-API-object-detection
 
 
-The notebooks numberes as 1,2 are ccloned from this repository : https://github.com/nicknochnack/TFODCourse.git
+The notebooks numberes as 1,2 are cloned from this repository : https://github.com/nicknochnack/TFODCourse.git
 
 These are are actual steps which we need to follow to achieve custom object detection.
 
